@@ -8,4 +8,4 @@ Quesitons Answered:
 
 1. What insights can you gather? How can you visualise the data? 
 2. What is surprising to you about the data, do you have a theory why it is that way? 
-3. 3. Use Machine Learning to build a model that can predict the listing price from the other information in the data file, then evaluate your model.
+3. Use Machine Learning to build a model that can predict the listing price from the other information in the data file, then evaluate your model.
