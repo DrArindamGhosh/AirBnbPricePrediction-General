@@ -1,4 +1,4 @@
-# AirBnb Price Prediction
+# Airbnb Price Prediction
 
 ## Context
 
