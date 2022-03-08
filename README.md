@@ -1,11 +1,19 @@
 # AirBnbPricePrediction
 
+##Context
 
-The dataset attached contains detailed listing information for AirBnB properties in Berlin on the 12th of August 2019. The task is open and an opportunity to showcase ML analytics strengths. Python programming language and technique have been used the you like to showcase your results, but you may well be asked to justify your methods and visualisation approach. 
+Airbnb has successfully disrupted the traditional hospitality industry as more and more travelers decide to use Airbnb as their primary accommodation provider. Since its beginning in 2008, Airbnb has seen an enormous growth, with the number of rentals listed on its website growing exponentially each year. In Germany, no city is more popular than Berlin. That implies that Berlin is one of the hottest markets for Airbnb in Europe, with over 22,552 listings as of November 2018.
 
+##Content
 
-Quesitons Answered: 
+The datasets were scraped on November 07th, 2018 and contain detailed listings data, review data and calendar data of current Airbnb listings in Berlin.
 
-1. What insights can you gather? How can you visualise the data? 
-2. What is surprising to you about the data, do you have a theory why it is that way? 
-3. Use Machine Learning to build a model that can predict the listing price from the other information in the data file, then evaluate your model.
+##Acknowledgements
+
+This data was created by Murray Cox and his Inside Airbnb project which can be found here.
+
+##Inspiration
+
+Can you predict the price for each Berlin neighborhood using listing descriptions?
+What are the busiest times of the year to visit Berlin? By how much do prices spike?
+Can you uncover trends in reviews of Airbnb visitors to Berlin?
