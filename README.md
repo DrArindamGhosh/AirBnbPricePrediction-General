@@ -10,7 +10,7 @@ The datasets were scraped on November 12th, 2019 and contain detailed listings d
 
 ## Acknowledgements
 
-This data was created by Murray Cox and his Inside Airbnb project which can be found here.
+This data can be available in request via email.
 
 ## Inspiration
 
