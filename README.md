@@ -1,7 +1,7 @@
 # AirBnbPricePrediction
 
 
-The dataset attached contains detailed listing information for AirBnB properties in Berlin on the 12th of August 2019. The task is open and an opportunity to showcase your strengths. You can use any programming language and any tool or technique you like to showcase your results, but you may well be asked to justify your methods and visualisation approach. You will be asked to spend around the first 15 minutes of your interview presenting your findings and explaining your method, after this you will be asked questions. 
+The dataset attached contains detailed listing information for AirBnB properties in Berlin on the 12th of August 2019. The task is open and an opportunity to showcase ML analytics strengths. Python programming language and technique have been used the you like to showcase your results, but you may well be asked to justify your methods and visualisation approach. 
 
 
 Quesitons Answered: 
