@@ -1,4 +1,4 @@
-# AirBnbPricePrediction
+# AirBnb Price Prediction
 
 ## Context
 
@@ -6,7 +6,7 @@ Airbnb has successfully disrupted the traditional hospitality industry as more a
 
 ## Content
 
-The datasets were scraped on November 07th, 2018 and contain detailed listings data, review data and calendar data of current Airbnb listings in Berlin.
+The datasets were scraped on November 12th, 2019 and contain detailed listings data, review data and calendar data of current Airbnb listings in Berlin.
 
 ## Acknowledgements
 
